@@ -4,5 +4,5 @@ nibabel==2.2.1
 pytest-cov==2.6.0
 pillow==8.1.1
 cython==0.27.1
-tensorflow==1.4.0
+tensorflow==2.4.0
 h5py==2.8.0
